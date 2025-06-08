@@ -4,6 +4,10 @@ FamilyTree is a Windows Forms (WinForms) application built in C# that visualizes
 
 This project is developed using Visual Studio Code (VSCode) and is licensed under the [MIT License](LICENSE).
 
+## Background
+
+FamilyTree was created as part of the [Weekly Programming Challenge #12](https://weblog.jamisbuck.org/2016/10/15/weekly-programming-challenge-12.html), posted on October 15, 2016, by Jamis Buck. The challenge’s normal mode required constructing and rendering a pedigree chart for at least four generations, displaying names in a traditional left-to-right tree format. This project builds on that challenge, implementing a five-generation pedigree chart with a complex family structure, efficient rendering, and interactive scrolling to handle large trees. Additional features, such as double-buffered rendering and customizable scaling, enhance the challenge’s requirements for a robust visualization tool.
+
 ## Features
 - **Family Tree Visualization**: Renders family trees with names (blue for offspring, red for spouses) and connecting lines.
 - **Scrolling Support**: Handles large trees with horizontal and vertical scrolling via mouse wheel, scrollbars, or drag-to-scroll (if implemented).
