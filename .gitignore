@@ -1,0 +1,128 @@
+# Windows Forms / C# / .NET
+bin/
+obj/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.csproj.user
+*.pdb
+*.exe
+*.dll
+*.cache
+*.log
+*.vsidx
+*.vssettings
+*.publish
+*.msi
+*.msix
+*.appx
+packages/
+*.nupkg
+*.snk
+TestResults/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]rchive/
+[Bb]uild/
+[Pp]ublish/
+*.aps
+*.bak
+*.tmp
+*.tlog
+*.idb
+*.ilk
+*.meta
+*.obj
+*.iobj
+*.pch
+*.ipch
+*.tli
+*.tlh
+*.lastbuildstate
+*.sbr
+*.sdf
+*.natvis
+*.exp
+*.lib
+*.opensdf
+*.VC.db
+*.VC.VC.opendb
+
+# NuGet
+NuGet.Config
+.nuget/
+*.nuget.props
+*.nuget.targets
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msm
+*.msp
+*.lnk
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+
+# Linux
+*~
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*.bak
+*.backup
+
+# Logs
+*.log
+logs/
+log/
+*.log.*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# Optional: Ignore sensitive files
+appsettings.json
+*.config
+*.conf
+*.secret
+*.secrets
+
+# Editor-specific
+*.sublime-project
+*.sublime-workspace
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Documentation
+*.md
+!README.md
+!LICENSE
+!CHANGELOG.md
